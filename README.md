@@ -16,6 +16,3 @@ import kagglehub
 ![download](https://github.com/user-attachments/assets/c6c0c0d5-ce73-448a-a984-f1cf7c248d95)
 # prompt: you can print the model coefficients and intercep
 
-# Print the coefficients and intercept
-print(f'Coefficients: {model.coef_}')
-print(f'Intercept: {model.intercept_}')
