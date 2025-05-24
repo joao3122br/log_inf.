@@ -14,5 +14,5 @@ https://fatecspgov-my.sharepoint.com/:u:/r/personal/joao_santos540_fatec_sp_gov_
 import kagglehub
 
 ![download](https://github.com/user-attachments/assets/c6c0c0d5-ce73-448a-a984-f1cf7c248d95)
-# prompt: you can print the model coefficients and intercep
+
 
