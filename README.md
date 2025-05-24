@@ -13,6 +13,9 @@ https://www.canva.com/design/DAGfsex8VIQ/PrrSD1qal05fzlKFIe2B2w/view?utm_content
 https://fatecspgov-my.sharepoint.com/:u:/r/personal/joao_santos540_fatec_sp_gov_br/Documents/info-%20jo%C3%A3o%20vitor.pbix?csf=1&web=1&e=ZkhUjP
 import kagglehub
 
-![download](https://github.com/user-attachments/assets/c6c0c0d5-ce73-448a-a984-f1cf7c248d95)
+# prompt: you can print the model coefficients and intercep
 
+# Print the coefficients and intercept
+print(f'Coefficients: {model.coef_}')
+print(f'Intercept: {model.intercept_}')
 
