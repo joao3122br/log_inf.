@@ -15,4 +15,5 @@ TERCEIRA ATIVIDADE DE INFORMÁTICA
 ![Captura de tela 2025-05-30 203351](https://github.com/user-attachments/assets/e54fc15f-71ea-4c90-be02-ae37efc68c4f)
 ## ATIVIDADE ALUNOS ESTRANGEIROS 
 ![image](https://github.com/user-attachments/assets/24578a54-31b1-4dc0-83ba-84d8b0e77596)
+## atividade sorvete Excel
 ![Captura de tela 2025-06-11 132334](https://github.com/user-attachments/assets/73940406-0f9f-4dfe-b206-1e6f4af1f192)
