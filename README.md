@@ -5,7 +5,10 @@ https://www.canva.com/design/DAGfsex8VIQ/PrrSD1qal05fzlKFIe2B2w/view?utm_content
 
 
 TERCEIRA ATIVIDADE DE INFORMÁTICA
-1- Qual Bandeira Teve o Maior Valor de vendas ? 2- Qual Estado teve o MaioR Valor de Vendas 3-Qual município teve o Maior valor em Vendas ? Captura de tela 2025-04-24 212803 https://fatecspgov-my.sharepoint.com/:u:/r/personal/joao_santos540_fatec_sp_gov_br/Documents/info-%20jo%C3%A3o%20vitor.pbix?csf=1&web=1&e=ZkhUjP importar kagglehub
+1- Qual Bandeira Teve o Maior Valor de vendas ? 2- Qual Estado teve o MaioR Valor de Vendas 3-Qual município teve o Maior valor em Vendas ? Captura de tela 2025-04-24 212803 https://fatecspgov-my.sharepoint.com/:u:/r/personal/joao_santos540_fatec_sp_gov_br/Documents/info-
+%20jo%C3%A3o%20vitor.pbix?csf=1&web=1&e=ZkhUjP importar kagglehub
+## ATIVIDADE ALUNOS ESTRANGEIROS 
+![image](https://github.com/user-attachments/assets/24578a54-31b1-4dc0-83ba-84d8b0e77596)
 ## atividade em dupla
 ![437247686-6129ef53-4022-42a9-814c-8d361e05e087](https://github.com/user-attachments/assets/3b874d3f-63e0-42a7-b7c8-1f3fe94fd2f6)
 ## atividade cerveja
