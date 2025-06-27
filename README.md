@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/a3496b94-6d98-43a7-80ba-92f75bae9ffb
 t1 l /Primeira Atividade: Apresentação Pessoal Slider usando Canva
 https://www.canva.com/design/DAGfsex8VIQ/PrrSD1qal05fzlKFIe2B2w/view?utm_content=DAGfsex8VIQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h46c816f8a7
 
@@ -22,5 +24,8 @@ TERCEIRA ATIVIDADE DE INFORMÁTICA
 ![Captura de tela 2025-06-26 223716](https://github.com/user-attachments/assets/44f5351b-95a4-4ffe-a6ae-808e522205c5)
 
 
-Uploading Power BI e mais 5 páginas - Perfil 1 — Microsoft​ Edge 2025-06-26 22-38-20.mp4…
+
+
+
+
 
