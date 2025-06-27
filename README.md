@@ -24,7 +24,7 @@ TERCEIRA ATIVIDADE DE INFORMÁTICA
 dashboard PROVA
 ![Captura de tela 2025-06-26 223716](https://github.com/user-attachments/assets/44f5351b-95a4-4ffe-a6ae-808e522205c5)
 
-
+https://github.com/seu-usuario/dashboard-logistica/blob/main/dashboard-frete-joao.mp4
 
 
 
