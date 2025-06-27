@@ -19,6 +19,10 @@ TERCEIRA ATIVIDADE DE INFORMÁTICA
 ![Captura de tela 2025-06-11 132225](https://github.com/user-attachments/assets/44c92d59-c041-459a-847d-796582bf8f36)
 ![Captura de tela 2025-05-30 203351](https://github.com/user-attachments/assets/e54fc15f-71ea-4c90-be02-ae37efc68c4f)
 
+
+https://github.com/user-attachments/assets/346223a4-ab7d-475f-91f0-bafdfde421b4
+
+
 ## atividade sorvete Excel
 ![Captura de tela 2025-06-11 132334](https://github.com/user-attachments/assets/73940406-0f9f-4dfe-b206-1e6f4af1f192)
 dashboard PROVA
