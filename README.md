@@ -26,11 +26,12 @@ TERCEIRA ATIVIDADE DE INFORMÁTICA
 dashboard PROVA
 ![Captura de tela 2025-06-26 223716](https://github.com/user-attachments/assets/44f5351b-95a4-4ffe-a6ae-808e522205c5)
 
-https://github.com/user-attachments/assets/346223a4-ab7d-475f-91f0-bafdfde421b4
 
 
 
-Video que eu nao consegui adicionar, pois estava c 29 mb mo computador 
+
+Video da dashboard, pelo computador o limite de MB nao deixou eu adicionar professora 
+tive que gravar a tela, e eu mexendo nos gráficos 
 
 https://github.com/user-attachments/assets/5c5c5aff-c818-43be-9d2f-458a23bf295d
 
