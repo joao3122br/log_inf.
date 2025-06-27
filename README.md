@@ -21,6 +21,7 @@ TERCEIRA ATIVIDADE DE INFORMÁTICA
 
 ## atividade sorvete Excel
 ![Captura de tela 2025-06-11 132334](https://github.com/user-attachments/assets/73940406-0f9f-4dfe-b206-1e6f4af1f192)
+dashboard PROVA
 ![Captura de tela 2025-06-26 223716](https://github.com/user-attachments/assets/44f5351b-95a4-4ffe-a6ae-808e522205c5)
 
 
