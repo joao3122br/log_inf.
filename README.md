@@ -38,12 +38,12 @@ https://github.com/user-attachments/assets/5c5c5aff-c818-43be-9d2f-458a23bf295d
 prova EXISTEM 534 CARGOS DIFERENTES 
 
 ![Captura de tela 2025-07-03 214551](https://github.com/user-attachments/assets/2dded0ce-9599-4508-9e48-66303cf82192)
-AO TOTAL 43 ORGÃOS DIFERENTES 
-![Captura de tela 2025-07-03 214551](https://github.com/user-attachments/assets/c042306b-483f-4f96-9110-02fe4203e0c6)
+
 
 PRINT DA DASHBOARD QUE FIZ O UPLOAD NO ONEDRIVE LINK GRAVAÇÃO https://fatecspgov.sharepoint.com/:v:/r/sites/Section_INF047.A994.N.074.146.20251/Shared%20Documents/General/Grava%C3%A7%C3%A3o%20da%20%20dashboard%20prova.mp4?csf=1&web=1&e=j1fXma
 ![Captura de tela 2025-07-03 214905](https://github.com/user-attachments/assets/2b030eb4-a4b3-4d1a-a8db-e22099aa10b5)
-
+Ao TOTAL 43 ORGANIZAÇOES DIDERENTES 
+![1000062610](https://github.com/user-attachments/assets/309a56af-5e2c-4827-8377-ab355b0aa633)
 
 POWER APPS
 https://github.com/user-attachments/assets/ac0cd31c-b629-4207-8331-b33e17c82045
