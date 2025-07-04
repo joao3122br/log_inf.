@@ -40,3 +40,11 @@ prova EXISTEM 534 CARGOS DIFERENTES
 ![Captura de tela 2025-07-03 214551](https://github.com/user-attachments/assets/2dded0ce-9599-4508-9e48-66303cf82192)
 AO TOTAL 43 ORGÃOS DIFERENTES 
 ![Captura de tela 2025-07-03 214551](https://github.com/user-attachments/assets/c042306b-483f-4f96-9110-02fe4203e0c6)
+
+PRINT DA DASHBOARD QUE FIZ O UPLOAD NO ONEDRIVE
+![Captura de tela 2025-07-03 214905](https://github.com/user-attachments/assets/2b030eb4-a4b3-4d1a-a8db-e22099aa10b5)
+
+
+POWER APPS
+https://github.com/user-attachments/assets/ac0cd31c-b629-4207-8331-b33e17c82045
+
