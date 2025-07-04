@@ -48,6 +48,8 @@ Ao TOTAL 48  ORGANIZAÇOES DIDERENTES
 
 POWER APPS
 https://github.com/user-attachments/assets/ac0cd31c-b629-4207-8331-b33e17c82045
+![image](https://github.com/user-attachments/assets/aab86f0d-e9c1-4e3e-9148-35d76f0b4a5c)
+
 
 foto da dashboard atualizada 
 ![image](https://github.com/user-attachments/assets/d95dbc48-86b5-47bf-ada8-3cf4cc79d0cb)
