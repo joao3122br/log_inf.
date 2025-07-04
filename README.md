@@ -1,3 +1,5 @@
+![1000062757](https://github.com/user-attachments/assets/40b988aa-4be9-46a4-8059-1c8d28ceb0b5)
+![1000062757](https://github.com/user-attachments/assets/c4355a68-e758-4842-930d-d2006ae43d2e)
 
 https://github.com/user-attachments/assets/a3496b94-6d98-43a7-80ba-92f75bae9ffb
 t1 l /Primeira Atividade: Apresentação Pessoal Slider usando Canva
@@ -47,4 +49,5 @@ Ao TOTAL 48  ORGANIZAÇOES DIDERENTES
 
 POWER APPS
 https://github.com/user-attachments/assets/ac0cd31c-b629-4207-8331-b33e17c82045
-
+foto da dashboard atualizada 
+![1000062757](https://github.com/user-attachments/assets/40b988aa-4be9-46a4-8059-1c8d28ceb0b5)
