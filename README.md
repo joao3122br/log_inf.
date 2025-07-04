@@ -35,5 +35,8 @@ tive que gravar a tela, e eu mexendo nos gráficos
 
 https://github.com/user-attachments/assets/5c5c5aff-c818-43be-9d2f-458a23bf295d
 
+prova EXISTEM 534 CARGOS DIFERENTES 
 
-
+![Captura de tela 2025-07-03 214551](https://github.com/user-attachments/assets/2dded0ce-9599-4508-9e48-66303cf82192)
+AO TOTAL 43 ORGÃOS DIFERENTES 
+![Captura de tela 2025-07-03 214551](https://github.com/user-attachments/assets/c042306b-483f-4f96-9110-02fe4203e0c6)
