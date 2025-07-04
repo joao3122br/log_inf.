@@ -1,5 +1,4 @@
-![1000062757](https://github.com/user-attachments/assets/40b988aa-4be9-46a4-8059-1c8d28ceb0b5)
-![1000062757](https://github.com/user-attachments/assets/c4355a68-e758-4842-930d-d2006ae43d2e)
+
 
 https://github.com/user-attachments/assets/a3496b94-6d98-43a7-80ba-92f75bae9ffb
 t1 l /Primeira Atividade: Apresentação Pessoal Slider usando Canva
