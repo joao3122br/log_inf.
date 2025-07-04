@@ -51,5 +51,4 @@ https://github.com/user-attachments/assets/ac0cd31c-b629-4207-8331-b33e17c82045
 
 foto da dashboard atualizada 
 ![image](https://github.com/user-attachments/assets/d95dbc48-86b5-47bf-ada8-3cf4cc79d0cb)
-
 LINK DA DASHBOARD CORRETA https://app.powerbi.com/groups/me/reports/11b832d8-633e-4964-8316-6b18957e7243/70557761d60480aecdd8?language=pt-BR&experience=power-bi
